@@ -5,9 +5,6 @@
     ],
     "rules": {
     "no-internal-module": false,
-    "no-namespace": false,
-    "trailing-comma": [true, {"multiline": "ignore", "singleline": "never"}],
-    "export-name": false,
-    "max-func-body-length" : [true, 150]
- }
-}
+    "no-namespace": false
+    }
+   }
